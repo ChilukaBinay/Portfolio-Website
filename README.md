@@ -21,11 +21,11 @@ JavaScript — Interactivity (app.js)
 Vercel — Hosting & deployment
 Project Structure
 Portfolio-Website/
-├── images/          # Site images, logo, and project screenshots
-├── index.html        # Main HTML file
-├── style.css          # Stylesheet
-└── app.js             # JavaScript for interactivity
-Getting Started
+ images/          # Site images, logo, and project screenshots
+ index.html        # Main HTML file
+ style.css          # Stylesheet
+ app.js             # JavaScript for interactivity
+ Getting Started
 
 To run this project locally:
 
